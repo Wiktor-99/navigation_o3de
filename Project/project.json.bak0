@@ -1,0 +1,48 @@
+{
+    "project_name": "Project",
+    "project_id": "{521B8118-52D4-4EED-AE43-72D9AED85EFF}",
+    "origin": "Open 3D Engine Extras: Project",
+    "license": "https://github.com/o3de/o3de-extras/tree/development/Templates/Ros2ProjectTemplate/Template/LICENSE.txt",
+    "display_name": "Project",
+    "summary": "Template for ROS2 projects.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "Project",
+        "ROS2",
+        "ROS"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de",
+    "external_subdirectories": [
+        "Gem"
+    ],
+    "restricted": "Project",
+    "gem_names": [
+        "Atom",
+        "AudioSystem",
+        "CameraFramework",
+        "Compression",
+        "DebugDraw",
+        "DiffuseProbeGrid",
+        "EditorPythonBindings",
+        "EMotionFX",
+        "GameState",
+        "ImGui",
+        "LandscapeCanvas",
+        "LyShine",
+        "PhysX5",
+        "PrimitiveAssets",
+        "PrefabBuilder",
+        "ROS2>=3.1.0",
+        "RosRobotSample>=1.1.0",
+        "SaveData",
+        "ScriptCanvasPhysics",
+        "ScriptEvents",
+        "StartingPointInput",
+        "TextureAtlas",
+        "WhiteBox",
+        "WarehouseSample"
+    ]
+}
