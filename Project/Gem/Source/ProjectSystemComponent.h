@@ -19,7 +19,7 @@ namespace Project
         , protected ProjectRequestBus::Handler
     {
     public:
-        AZ_COMPONENT(ProjectSystemComponent, "{22D86F6D-F5C7-4CDB-ABD1-6230C3417BEE}");
+        AZ_COMPONENT(ProjectSystemComponent, "{09EBA7E4-AE50-434E-8713-41BC0A3551A1}");
 
         static void Reflect(AZ::ReflectContext* context);
 

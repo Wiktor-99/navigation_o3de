@@ -21,7 +21,7 @@ namespace Project
         , public ImGui::ImGuiUpdateListenerBus::Handler
     {
     public:
-        AZ_COMPONENT(ProjectSampleComponent, "{A8E8FC71-F82F-402B-B19D-01EC29E540E8}", AZ::Component);
+        AZ_COMPONENT(ProjectSampleComponent, "{04601447-3F76-45BB-B4FE-6B757D929FAC}", AZ::Component);
         ProjectSampleComponent();
         ~ProjectSampleComponent() = default;
         void Activate() override;

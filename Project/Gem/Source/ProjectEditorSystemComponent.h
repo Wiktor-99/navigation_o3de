@@ -14,7 +14,7 @@ namespace Project
     {
         using BaseSystemComponent = ProjectSystemComponent;
     public:
-        AZ_COMPONENT(ProjectEditorSystemComponent, "{F6591829-934C-4E21-A84E-B906EBAB81EC}", BaseSystemComponent);
+        AZ_COMPONENT(ProjectEditorSystemComponent, "{4537A507-C93D-4225-9006-27024D3EC1F5}", BaseSystemComponent);
         static void Reflect(AZ::ReflectContext* context);
 
         ProjectEditorSystemComponent();

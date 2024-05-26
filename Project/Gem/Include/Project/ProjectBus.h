@@ -16,7 +16,7 @@ namespace Project
     class ProjectRequests
     {
     public:
-        AZ_RTTI(ProjectRequests, "{3649DB3B-46CC-428A-8BB9-20F7A37337D2}");
+        AZ_RTTI(ProjectRequests, "{AE44C1BB-46DB-448A-9701-A82E47667612}");
         virtual ~ProjectRequests() = default;
         // Put your public methods here
     };

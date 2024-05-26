@@ -9,7 +9,7 @@ namespace Project
         : public ProjectModuleInterface
     {
     public:
-        AZ_RTTI(ProjectEditorModule, "{8EE01C9A-53FB-4190-A4E2-55E6AF9FBE4C}", ProjectModuleInterface);
+        AZ_RTTI(ProjectEditorModule, "{FF6851B2-D84E-4A10-8D88-DCDE04C39F7D}", ProjectModuleInterface);
         AZ_CLASS_ALLOCATOR(ProjectEditorModule, AZ::SystemAllocator, 0);
 
         ProjectEditorModule()
